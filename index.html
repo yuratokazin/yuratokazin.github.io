@@ -9,13 +9,21 @@
     </style>
   </head>
   <body>
+
     <h1>Привет!</h1>
-    <p>Это мой сайт.</p>
-    <button onclick="showMessage()">Моя кнопка</button>
+    <p>Начни менять код.</p>
+    <div>
+      <p>Кнопка нажата <span id="counter">0</span> раз(а)</p>
+      <button onclick="incrementCounter()">Нажми меня</button>
+    </div>
+
     <script>
-      function showMessage() {
-        alert('Привет, мир!');
+      let count = 0;
+      function incrementCounter() {
+        count++;
+        document.getElementById('counter').textContent = count;
       }
     </script>
+
   </body>
 </html>

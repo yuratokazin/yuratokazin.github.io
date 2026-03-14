@@ -5,7 +5,7 @@
 #### Пошаговая инструкция:
 
 1. **Написание кода (HTML/CSS/JS):**
-   - Откройте <a href="https://newitcube.github.io/editor.html" target="_blank">Link</a> [наш редактор](https://newitcube.github.io/editor.html) (или на ПК можно установить например, Notepad++ или VS Code).
+   - Откройте в новой вкладке <a href="https://newitcube.github.io/editor.html" target="_blank">редактор кода</a> (или на ПК можно установить например, Notepad++ или VS Code).
    - Напишите структуру сайта в файле `index.html`. Добавьте заголовки, текст и изображения.
    - Используйте CSS (внутри тега `<style>`... `</style>`или отдельным файлом) для оформления.
    - Используйте JavaScript (внутри тега `<script>`... `<script>` или отдельным файлом) для программирования.

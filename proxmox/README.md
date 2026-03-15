@@ -184,7 +184,9 @@ apt update && apt install sudo
 
 После этих действий пользователь сможет выполнять команды, используя `sudo <команда>`.
 
-## Пошаговая установка Proxmox на Debian 13
+# Установка Proxmox на Debian 13
+
+![img](https://encrypted-tbn3.gstatic.com/faviconV2?url=https://pve.proxmox.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL)
 
 ### Инструкция обновления Debian 12 до Debian 13 
 

@@ -100,7 +100,8 @@ Please specify a domain, host, host:port, [address] or [address]:port. Use the f
 
 
 ```
-Запустите установку основных пакетов: sudo apt install proxmox-ve postfix open-iscsi -y Postfix: При запросе выберите «Local only» (это нужно для системных уведомлений).
+Запустите установку основных пакетов: sudo apt install proxmox-ve postfix open-iscsi -y Postfix:
+При запросе выберите «Local only» (это нужно для системных уведомлений).
 ```
 
 

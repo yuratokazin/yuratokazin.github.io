@@ -1,4 +1,6 @@
-# Proxmox
+# Proxmox Virtual Environment
+
+![img](https://encrypted-tbn3.gstatic.com/faviconV2?url=https://pve.proxmox.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL)
 
 Proxmox — это экосистема решений с открытым кодом для IT-инфраструктуры. **VE** — гипервизор для виртуализации (VM/контейнеры), **Backup Server** — система резервного копирования с дедупликацией, **Mail Gateway** — защита почты от спама/вирусов, а **Datacenter Manager** — централизованная панель для управления множеством независимых кластеров. 
 

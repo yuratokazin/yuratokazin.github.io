@@ -1,6 +1,8 @@
-# Настройка пакета  Postfix Configuration
+# Postfix Configuration
 
 ![img](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzijpNP4ZMOKuL9_sYtpLVx-qWoKTdP8Ey6YbxXq4480bdzSq6)
+
+Настройка пакета Postfix
 
 Выбор зависит от того, какую роль будет выполнять ваш сервер. Вот краткая шпаргалка:
 

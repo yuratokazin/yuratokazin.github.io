@@ -1141,7 +1141,9 @@ sudo apt update && sudo apt dist-upgrade -y
 
 ![img](https://encrypted-tbn3.gstatic.com/faviconV2?url=https://pve.proxmox.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL)
 
-Перенос сайта с **Raspberry Pi** на **Proxmox** даст вам гораздо больше ресурсов и надежности. Поскольку вы используете **VPS** (вероятно, как прокси или VPN-туннель), схема переноса будет выглядеть так:
+Перенос сайта например с **Raspberry Pi** на **Proxmox** даст вам гораздо больше ресурсов и надежности. 
+
+Если вы используете **VPS** (вероятно, как прокси или VPN-туннель), схема переноса будет выглядеть так:
 
 #### 1. Создайте «дом» для сайта (Контейнер LXC)
 

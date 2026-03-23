@@ -4,7 +4,7 @@
 
 *Услуга "MSK-KVM-SSD-START остановлена*
 
-Сообщение означает, что ваш VPS-сервер [Firstbyte](https://www.google.com/search?q=Firstbyte&sca_esv=e2250487dc351849&biw=1027&bih=484&sxsrf=ANbL-n6bQ85PLJp3a6VKdU8lWC3OaJOO5Q%3A1774264846722&ei=DiLBaabnK6CnwPAPpN-eoQs&ved=2ahUKEwiMsZGn9LWTAxUSDRAIHSyzFyUQgK4QegQIARAB&uact=5&oq=Услуга+Стоимость%3A+0.00+RUB+%2F+Месяц+"MSK-KVM-SSD-START+остановлена&gs_lp=Egxnd3Mtd2l6LXNlcnAiYNCj0YHQu9GD0LPQsCDQodGC0L7QuNC80L7RgdGC0Yw6IDAuMDAgUlVCIC8g0JzQtdGB0Y_RhiAiTVNLLUtWTS1TU0QtU1RBUlQg0L7RgdGC0LDQvdC-0LLQu9C10L3QsDIKEAAYsAMY1gQYRzIKEAAYsAMY1gQYR0jmQVCCHFiCHHABeAGQAQCYAQCgAQCqAQC4AQPIAQD4AQL4AQGYAgGgAhOYAwCIBgGQBgKSBwExoAcAsgcAuAcAwgcDMi0xyAcHgAgA&sclient=gws-wiz-serp&mstk=AUtExfBwEylYw-zzIIvToVyzA8G3OnbB9XwBzewpph7vw8FATpipFHL_U-8QA41MP6_3YT4qds7hBHp0OFcXlDkAda40dMp4QyZqURdXHTb-oUtWhlg3M5SwFndfeCvl_G8or2_8ib5r6HeFo0GrpqV6ngW8yoJhrrPZPJ4IK4wQwllxCiSl3pt4NY0BcTWOHo6dF-r6Hu0WBKvJZGsZftZQJa5lI6vyPNtmbbtJbBD-ghnA-HjQf5eRTa81YNpcGg0o6Rlh-KXIBFN2HXRtuKBsdgWb&csui=3) (тариф MSK-KVM-SSD-START) остановлен. Причина — нулевой баланс (0.00 RUB). Для восстановления работы необходимо пополнить счет в биллинге провайдера и включить сервер в панели управления, так как бесплатный тариф не предусматривает автоматического запуска при долге. 
+Сообщение означает, что ваш VPS-сервер Firstbyte (тариф MSK-KVM-SSD-START) остановлен. Причина — нулевой баланс (0.00 RUB). Для восстановления работы необходимо пополнить счет в биллинге провайдера и включить сервер в панели управления, так как бесплатный тариф не предусматривает автоматического запуска при долге. 
 
 **Что делать:**
 

@@ -19,7 +19,19 @@
 
 Обычно такая ошибка носит временный характер и решается перезапуском через панель управления.
 
+---
 
+Наталья 2026-03-23 21:15:29
+
+Добрый день!
+
+Уважаемые клиенты,
+
+Спасибо, что остаетесь с нами! В настоящее время мы столкнулись с массовой проблемой при продлении услуг. Мы уже активно работаем над её скорейшим решением и приложим все усилия, чтобы восстановить стабильную работу как можно быстрее.
+
+Благодарим вас за понимание и терпение. Ваше доверие — самая главная ценность для нас!
+
+Если у вас возникнут вопросы, пожалуйста, обращайтесь — мы всегда рады помочь.
 
 ```
 Продление услуги - #3422971 DNS-100-free (185.180.230.62)
@@ -35,43 +47,9 @@
 
 
 
-Наталья2026-03-23 21:15:29
-
-
-
-Добрый день!
-
-Уважаемые клиенты,
-
-Спасибо, что остаетесь с нами! В настоящее время мы столкнулись с массовой проблемой при продлении услуг. Мы уже активно работаем над её скорейшим решением и приложим все усилия, чтобы восстановить стабильную работу как можно быстрее.
-
-Благодарим вас за понимание и терпение. Ваше доверие — самая главная ценность для нас!
-
-Если у вас возникнут вопросы, пожалуйста, обращайтесь — мы всегда рады помочь.
-
 ---
 
 Режим ИИ
-
-[Все](https://www.google.com/search?q=Услуга+Стоимость:+0.00+RUB+/+Месяц+"MSK-KVM-SSD-START+остановлена&sca_esv=e2250487dc351849&biw=1027&bih=484&aep=10&prmd=ivns&sxsrf=ANbL-n5dK0xfJb-AnhfftEksSMQY1uAanQ:1774297906521&source=lnms&sa=X&ved=2ahUKEwjYk8bj7raTAxXBLBAIHa8GH_0Q0pQJegQIBRAF)
-
-[Картинки](https://www.google.com/search?q=Услуга+Стоимость:+0.00+RUB+/+Месяц+"MSK-KVM-SSD-START+остановлена&sca_esv=e2250487dc351849&biw=1027&bih=484&aep=10&udm=2&prmd=ivns&sxsrf=ANbL-n5dK0xfJb-AnhfftEksSMQY1uAanQ:1774297906521&source=lnms&sa=X&ved=2ahUKEwjYk8bj7raTAxXBLBAIHa8GH_0Q0pQJegQIBRAH)
-
-[Видео](https://www.google.com/search?q=Услуга+Стоимость:+0.00+RUB+/+Месяц+"MSK-KVM-SSD-START+остановлена&sca_esv=e2250487dc351849&biw=1027&bih=484&aep=10&udm=7&prmd=ivns&sxsrf=ANbL-n5dK0xfJb-AnhfftEksSMQY1uAanQ:1774297906521&source=lnms&sa=X&ved=2ahUKEwjYk8bj7raTAxXBLBAIHa8GH_0Q0pQJegQIBRAJ)
-
-[Новости](https://www.google.com/search?q=Услуга+Стоимость:+0.00+RUB+/+Месяц+"MSK-KVM-SSD-START+остановлена&sca_esv=e2250487dc351849&biw=1027&bih=484&aep=10&tbm=nws&prmd=ivns&sxsrf=ANbL-n5dK0xfJb-AnhfftEksSMQY1uAanQ:1774297906521&source=lnms&sa=X&ved=2ahUKEwjYk8bj7raTAxXBLBAIHa8GH_0Q0pQJegQIBRAL)
-
-Ещё
-
-
-
-
-
-[![img](https://lh3.google.com/u/0/ogw/AF2bZyifLeMHFeWCkcwWz9ArfdLy_vjs95UNNGZidprtCs1k7A=s32-c-mo)](https://accounts.google.com/SignOutOptions?hl=ru&continue=https://www.google.com/search%3Fq%3D%D0%A3%D1%81%D0%BB%D1%83%D0%B3%D0%B0%2B%D0%A1%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C%3A%2B0.00%2BRUB%2B%2F%2B%D0%9C%D0%B5%D1%81%D1%8F%D1%86%2B%22MSK-KVM-SSD-START%2B%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B0%26sca_esv%3De2250487dc351849%26biw%3D1027%26bih%3D484%26sxsrf%3DANbL-n6bQ85PLJp3a6VKdU8lWC3OaJOO5Q%3A1774264846722%26ei%3DDiLBaabnK6CnwPAPpN-eoQs%26ved%3D2ahUKEwiVhJ2n9LWTAxVcGRAIHdbVOwwQ0NsOegQIAxAA%26uact%3D5%26sclient%3Dgws-wiz-serp%26aep%3D10%26ntc%3D1%26mstk%3DAUtExfDzZthRcSvWbfD4jmvdvOG245-RqLmqJVy-J-wXckKtVPuUvz9PCorXE_bR2ILGp71xilwZudBRvPW8WVIzW4RRC6ZoAuTC7s4x0dfTnjUUpYxQ-IRiztpNRO8VtMqnPP9M7olGMrVvm93qvaVoQC7FAjpaPxZyjT2uVCdo2cPjBIR7yVrsNT9QJb2l88ANP8XfKSvi8g4nxWLJvy77cl0oQNa--9rrxD1SrbMjhCAlaFIvrP2WUTYvnD82xOYbLzjjs1HPFJVEtecJ8GDYK7RKySvR7-w1hOmIOOTrqcPCyoVZ2suEBOJcD2CidGZ1dp1C6aUyZr9ZSg%26csuir%3D1%26mtid%3DYyfBaafOFYXBwPAPrsyiuA0%26atvm%3D2%26udm%3D50&ec=futura_srp_og_si_72236_p)
-
-<iframe role="presentation" style="height: 100%; width: 100%; color-scheme: light; visibility: hidden;" frameborder="0" scrolling="no" name="app" src="https://ogs.google.com/u/0/widget/app?eom=1&amp;awwd=1&amp;em=2&amp;dpi=89978449&amp;origin=https%3A%2F%2Fwww.google.com&amp;cn=app&amp;pid=1&amp;spid=1&amp;hl=ru"></iframe>
-
-<iframe role="presentation" style="height: 100%; width: 100%; color-scheme: light; visibility: hidden;" frameborder="0" scrolling="no" name="account" src="about:blank"></iframe>
 
 ------
 

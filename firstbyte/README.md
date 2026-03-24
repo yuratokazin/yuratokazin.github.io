@@ -1,5 +1,5 @@
 Обзор от ИИ
-
+https://yuratokazin.github.io/firstbyte
 # yuratokazin.github.io/firstbyte
 
 *Услуга "MSK-KVM-SSD-START остановлена*

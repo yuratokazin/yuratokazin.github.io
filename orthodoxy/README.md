@@ -6,7 +6,7 @@
 
 - **Культура и религия:** Введение в православную традицию.
 
-- **Основы веры:** [Вера в Бога-Троицу (Отца, Сына, Святого Духа), любовь к человеку]().
+- **Основы веры:** [Вера в Бога-Троицу (Отца, Сына, Святого Духа), любовь к человеку](https://www.google.com/search?q=%D0%92%D0%B5%D1%80%D0%B0+%D0%B2+%D0%91%D0%BE%D0%B3%D0%B0-%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D1%83+%28%D0%9E%D1%82%D1%86%D0%B0%2C+%D0%A1%D1%8B%D0%BD%D0%B0%2C+%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE+%D0%94%D1%83%D1%85%D0%B0%29%2C+%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C+%D0%BA+%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D1%83.).
 
 - **Священные понятия:** [Священное Писание (Библия)](https://www.google.com/search?q=Священное+Писание+(Библия)&ved=2ahUKEwj_icCg49eTAxXrIxAIHRehFNAQgK4QegYIAQgAEBE), [Священное Предание](https://www.google.com/search?q=Священное+Предание&ved=2ahUKEwj_icCg49eTAxXrIxAIHRehFNAQgK4QegYIAQgAEBI).
 

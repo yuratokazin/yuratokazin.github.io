@@ -133,6 +133,11 @@ Webflow часто выбирают для [landing pages](https://webflow.com/m
 
 Цель: Использование передовых LLM моделей для генерация HTML + CSS + текстов для сайта
 
+https://habr.com/ru/articles/861770/ 
+https://bigdataschool.ru/wiki/large-language-models/ 
+https://jina.ai/ru/models/ReaderLM-v2/ 
+https://www.reddit.com/r/LocalLLM/comments/1ih8mno/what_is_the_best_llm_for_web_dev_and_design_html/?tl=ru
+
 Темы:
 
 Что такое LLM и как они применяются в разработке

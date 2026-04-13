@@ -1,4 +1,4 @@
-# Веб разработка на VS Code
+# Веб разработка на Visual Studio Code
 
 ## Установка VS Code на Windows
 

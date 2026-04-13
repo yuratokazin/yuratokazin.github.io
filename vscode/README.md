@@ -75,7 +75,11 @@ sudo apt-get install -f
 
 Установите Piny прямо с рынка расширений для предпочитаемого IDE.
 
-# Tailwind Editor – Piny
+Piny — визуальный редактор для Astro, React, Next.js и Tailwind, работающий в вашей IDE.
+
+### Tailwind Editor – Piny
+
+https://marketplace.visualstudio.com/items?itemName=Pinegrow.piny
 
 Установка
 Запустите функцию быстрого открытия VS Code (Ctrl+P), вставьте следующую команду и нажмите Enter.

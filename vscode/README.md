@@ -79,7 +79,7 @@ Piny — визуальный редактор для Astro, React, Next.js и T
 
 ### Tailwind Editor – Piny
 
-https://marketplace.visualstudio.com/items?itemName=Pinegrow.piny
+https://marketplace.visualstudio.com/items?itemName=Pinegrow.piny 
 
 Установка
 Запустите функцию быстрого открытия VS Code (Ctrl+P), вставьте следующую команду и нажмите Enter.

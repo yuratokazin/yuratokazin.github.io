@@ -12,14 +12,6 @@
 - Скачать [установщик](https://code.visualstudio.com/download), подходящий к дистрибутиву.
 - Запустить файл и следовать инструкции.
 
-#### Веб-приложение
-
-Веб-версия VS Code находится по адресу [vscode.dev](https://vscode.dev). С её помощью можно изменять локальные файлы с компьютера, открывать  удалённые репозитории, устанавливать некоторые расширения и сохранять  результат работы на диск компьютера. VS Code запускается даже  в мобильных браузерах, но у смартфонов довольно маленькие экраны,  поэтому работать на них неудобно.
-
-
-### Установка русского языка в VS Code 
-Выполняется через установку расширения [Russian Language Pack](https://www.google.com/search?q=Russian+Language+Pack&sca_esv=b1359834a2735cce&biw=1168&bih=562&sxsrf=ANbL-n4kND956FWFAvo1hNtbgsl85B1dHQ%3A1775930222487&ei=bovaafyzHdCzmtkP-dakwAc&ved=2ahUKEwiC9tbjtOaTAxVqmmoFHd0cI_AQgK4QegQIARAC&uact=5&oq=установка+русского+VS+Code+на+дебиян&gs_lp=Egxnd3Mtd2l6LXNlcnAiPdGD0YHRgtCw0L3QvtCy0LrQsCDRgNGD0YHRgdC60L7Qs9C-IFZTIENvZGUg0L3QsCDQtNC10LHQuNGP0L0yCRAhGKABGAoYKjIHECEYoAEYCjIHECEYoAEYCkilDlAAWABwAHgBkAEAmAGmBaABpgWqAQM1LTG4AQPIAQD4AQGYAgGgAtYFmAMAkgcDNS0xoAeDBrIHAzUtMbgH1gXCBwMzLTHIBw6ACAA&sclient=gws-wiz-serp&mstk=AUtExfCC3415DWUwZQTebdNo19iOclwK_97j-sGUfPhbICWFatjpXCedMez5UBqTdW2ux6pvw4XaAD3KacY3pds8ZeiGtTZ8CCFyOlFUh-Kw9PjQxBXSYOeYeYXdZljl3jKejIfPwGca5E92QrxTLTLqg5YmbD_98aKXYYTSL0claHQnOOk&csui=3). Скачайте `.deb` пакет с [официального сайта](https://code.visualstudio.com/), установите через `sudo dpkg -i`, затем нажмите `Ctrl+Shift+P` -> «Configure Display Language» -> «ru». 
-
 Пошаговая инструкция
 
 1. **Скачивание:** Перейдите на сайт Visual Studio Code и скачайте файл `.deb` для Debian/Ubuntu.
@@ -34,6 +26,16 @@ sudo apt-get install -f # Для установки зависимостей, е
 ```
 
 *Также можно использовать [репозиторий Debian Wiki](https://wiki.debian.org/ru/VisualStudioCode) для установки, советуют [пользователи Reddit](https://www.reddit.com/r/debian/comments/1k5niuq/most_common_way_to_install_vscode/?tl=ru).*
+
+#### Веб-приложение
+
+Веб-версия VS Code находится по адресу [vscode.dev](https://vscode.dev). С её помощью можно изменять локальные файлы с компьютера, открывать  удалённые репозитории, устанавливать некоторые расширения и сохранять  результат работы на диск компьютера. VS Code запускается даже  в мобильных браузерах, но у смартфонов довольно маленькие экраны,  поэтому работать на них неудобно.
+
+
+### Установка русского языка в VS Code 
+Выполняется через установку расширения [Russian Language Pack](https://www.google.com/search?q=Russian+Language+Pack&sca_esv=b1359834a2735cce&biw=1168&bih=562&sxsrf=ANbL-n4kND956FWFAvo1hNtbgsl85B1dHQ%3A1775930222487&ei=bovaafyzHdCzmtkP-dakwAc&ved=2ahUKEwiC9tbjtOaTAxVqmmoFHd0cI_AQgK4QegQIARAC&uact=5&oq=установка+русского+VS+Code+на+дебиян&gs_lp=Egxnd3Mtd2l6LXNlcnAiPdGD0YHRgtCw0L3QvtCy0LrQsCDRgNGD0YHRgdC60L7Qs9C-IFZTIENvZGUg0L3QsCDQtNC10LHQuNGP0L0yCRAhGKABGAoYKjIHECEYoAEYCjIHECEYoAEYCkilDlAAWABwAHgBkAEAmAGmBaABpgWqAQM1LTG4AQPIAQD4AQGYAgGgAtYFmAMAkgcDNS0xoAeDBrIHAzUtMbgH1gXCBwMzLTHIBw6ACAA&sclient=gws-wiz-serp&mstk=AUtExfCC3415DWUwZQTebdNo19iOclwK_97j-sGUfPhbICWFatjpXCedMez5UBqTdW2ux6pvw4XaAD3KacY3pds8ZeiGtTZ8CCFyOlFUh-Kw9PjQxBXSYOeYeYXdZljl3jKejIfPwGca5E92QrxTLTLqg5YmbD_98aKXYYTSL0claHQnOOk&csui=3). Скачайте `.deb` пакет с [официального сайта](https://code.visualstudio.com/), установите через `sudo dpkg -i`, затем нажмите `Ctrl+Shift+P` -> «Configure Display Language» -> «ru». 
+
+
 
 **Русификация:**
 

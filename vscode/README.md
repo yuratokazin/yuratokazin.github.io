@@ -97,7 +97,7 @@ ext install Pinegrow.piny
 
 ![Редактировать в Piny](https://github.com/Pinegrow/piny-extension/raw/main/images/edit-in-piny.png)
 
-### Не обязательно (по желанию)
+## Поменять тему (по желанию)
 
 Чтобы включить светлую тему в Visual Studio Code, нажмите `Ctrl+K`, затем `Ctrl+T` (или `Cmd+K`, `Cmd+T` на macOS), чтобы открыть список тем, и выберите одну из светлых, например, **"Light+"** или **"Quiet Light"**. 
 

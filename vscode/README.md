@@ -70,6 +70,7 @@ sudo apt-get install -f
 Подробные гайды по настройке можно найти на ресурсах вроде [Хабр](https://habr.com/ru/companies/timeweb/articles/916040/)
 
 
+## Установка визуального редактора в VS Code 
 
 ### Установить расширение Pinterest
 

@@ -27,9 +27,9 @@ sudo apt-get install -f # Для установки зависимостей, е
 
 *Также можно использовать [репозиторий Debian Wiki](https://wiki.debian.org/ru/VisualStudioCode) для установки, советуют [пользователи Reddit](https://www.reddit.com/r/debian/comments/1k5niuq/most_common_way_to_install_vscode/?tl=ru).*
 
-Как правильно установить Visual Studio Code?
+### Как правильно установить Visual Studio Code на Debian?
 
-**Выполните следующие действия, чтобы установить Visual Studio Code:**
+**Выполните следующие действия:**
 
 1. Откройте веб-браузер и перейдите к code.visualstudio.com.
 2. Скачайте версию операционной системы. **Visual Studio Code** поддерживает ОС Windows, Linux и macOS.
